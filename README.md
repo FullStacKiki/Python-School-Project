@@ -4,20 +4,11 @@ This is a custom-built quiz program that uses the random library and arrays to p
 # Clone the repository 
 
 Open your terminal and clone the repository to your local machine:
-bash
+
+```bash
 git clone https://github.com/FullStacKiki/Python-School-Project.git
-
-# Navigate to the Project directory 
-
-Once cloned, move into the project’s directory:
-bash
 cd Python-School-Project
-
-# Run file.py 
-
-Inside the directory, execute the file.py script using Python:
-bash
-python file.py
+python file.py 
 
 # Interact with the program
 
