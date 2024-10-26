@@ -1,2 +1,2 @@
 # Python-School-Project
-This is a program that I've personally build. It uses the library of random and inside of this program there are some arrays. The program has the same function of a quiz program. Feel free to try it
+This is a custom-built quiz program that uses the random library and arrays to present quiz questions. The program functions like a standard quiz application where users are prompted with random questions and are expected to answer them. It likely includes an array to store questions and another array to store answers. Feel free to test it out!
